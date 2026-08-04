@@ -44,10 +44,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://www.bea.gov/data",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -96,10 +96,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://www.bea.gov/data/intl-trade-investment",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -148,10 +148,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://www.census.gov/econ/bfs/index.html",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -200,10 +200,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://www.census.gov/programs-surveys/economic-census.html",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -254,10 +254,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://www.census.gov/economic-indicators/",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -308,10 +308,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 403,
+        "final_url": "https://www.sec.gov/edgar",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
@@ -362,10 +362,10 @@
       "status_since": "2026-06-29",
       "status_source": "auto",
       "observed": {
-        "checked": "2026-06-29",
-        "reachable": null,
-        "http_status": null,
-        "final_url": null,
+        "checked": "2026-08-04",
+        "reachable": true,
+        "http_status": 200,
+        "final_url": "https://fiscaldata.treasury.gov/",
         "redirect_chain": [],
         "fingerprint_result": "no-baseline"
       },
